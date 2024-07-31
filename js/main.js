@@ -734,6 +734,7 @@ function loadAssetsAndRenderPageContent() {
     'assets/kakaobrain.yaml',
     'assets/khan.yaml',
     'assets/konan.yaml',
+    'assets/ai_supervision.yaml',
     'assets/kotoba.yaml',
     'assets/ktai.yaml',
     'assets/laion.yaml',
