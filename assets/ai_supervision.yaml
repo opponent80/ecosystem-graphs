@@ -1,0 +1,24 @@
+---
+- type: application
+  name: AI Supervision
+  organization: TecAce Software 
+  description: AI Supervision is the cornerstone of the AI stack, 
+  empowering enterprises with governance, 
+  monitoring and evaluation for AI applications, LLM Models and their data.
+  created_date: 2024-07-01
+  url: https://tecace.com/assistace
+  model_card: none
+  modality: n/a
+  analysis: none
+  size: n/a
+  dependencies: []
+  training_emissions: unknown
+  training_time: unknown
+  training_hardware: unknown
+  quality_control: ''
+  access: limited
+  license: unknown
+  intended_uses: Governance, Monitoring and Evaluation
+  prohibited_uses: ''
+  monitoring: ''
+  feedback: none
